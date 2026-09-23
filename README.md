@@ -1,0 +1,2 @@
+# Beyond-The-Sale--A-Power-BI-Deep-Dive-into-Brazils-Olist-Marketplace
+Turning 99K+ transactions into a growth story: an end-to-end Power BI dashboard built on Brazil's Olist marketplace data. Modeled with Power Query &amp; DAX to expose a 130%+ YoY growth curve, a hidden 3.1% retention gap, and regional delivery bottlenecks - where raw numbers become boardroom-ready insight.
